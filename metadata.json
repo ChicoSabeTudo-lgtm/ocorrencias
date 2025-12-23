@@ -1,0 +1,5 @@
+{
+  "name": "PMBA Occurrence Generator",
+  "description": "A professional tool for generating police occurrence reports based on the PMBA template, allowing users to edit text and insert photos seamlessly.",
+  "requestFramePermissions": []
+}
